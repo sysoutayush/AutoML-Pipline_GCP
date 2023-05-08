@@ -3,10 +3,10 @@
 #### This is a Project and Use case for AutoML on tabuler data on GCP using KFP pipeline and Pub-Sub Trigger  
 
 ## Requrements:
-GCP fundamentels 
-Vertex AI
-Automl On GCP
-KubeFlow Pipelines 
+* GCP fundamentels 
+* Vertex AI
+* Automl On GCP
+* KubeFlow Pipelines 
 
 
 
